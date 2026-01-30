@@ -1,0 +1,32 @@
+# Dataset files (too large for git — download from Kaggle)
+*.csv
+*.zip
+
+# Notebook outputs / executed copies
+Fraud_Detection_out.ipynb
+
+# PDF exports
+*.pdf
+
+# Plot image exports
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env
+
+# Colab
+sample_data/
+
+# Claude Code
+CLAUDE.md
