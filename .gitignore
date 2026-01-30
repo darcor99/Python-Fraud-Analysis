@@ -8,8 +8,7 @@ Fraud_Detection_out.ipynb
 # PDF exports
 *.pdf
 
-# Plot image exports
-*.png
+# Plot image exports (kept in repo for README reference)
 
 # Python
 __pycache__/
